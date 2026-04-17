@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    text-align: center;
+    color: #333;
+}
+
+/* Deixa a foto redondinha e bonita */
+.foto-perfil {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%; /* Faz o círculo */
+    border: 5px solid #007bff;
+}
+
+/* Estiliza os títulos */
+h1 {
+    color: #007bff;
+}
+
+section {
+    background: white;
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
