@@ -2,10 +2,10 @@
 
 Olá! Este é o repositório do meu primeiro blog, desenvolvido como atividade prática para a faculdade.
 
-<img src="[COLOQUE_AQUI_O_LINK_DO_SEU_SITE]" width="100%" alt="Screenshot do meu blog">
+<img src="[[COLOQUE_AQUI_O_LINK_DO_SEU_SITE]](https://leandroabe1976.github.io/meu_blog_IA/)" width="100%" alt="Screenshot do meu blog">
 
 ## 🧑‍💻 Sobre Mim
-- **Nome:** Leandro [Seu Sobrenome]
+- **Nome:** Leandro Abe
 - **Curso:** Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)
 - **Hobbies:** Jogar videogame no celular, curtir comida japonesa e dirigir.
 
