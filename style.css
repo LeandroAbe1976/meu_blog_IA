@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f2f5;
+    background-color: light blue;
     text-align: center;
     color: #333;
 }
@@ -15,7 +15,7 @@ body {
 
 /* Estiliza os títulos */
 h1 {
-    color: #007bff;
+    color: darkred;
 }
 
 section {
